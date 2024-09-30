@@ -1,0 +1,28 @@
+Node_distribution :uniform
+
+Problem_name :uniform-71-n50
+alpha :2
+1th run:
+current cost:419.5308831987448
+current solution:[{0: 'combined', 1: 'truck', 15: 'truck', 24: 'truck', 17: 'drone', 7: 'combined', 33: 'truck', 44: 'drone', 8: 'combined', 18: 'truck', 39: 'truck', 3: 'truck', 43: 'drone', 40: 'combined', 27: 'drone', 22: 'truck', 45: 'truck', 10: 'truck', 6: 'combined', 26: 'drone', 13: 'combined', 21: 'drone', 20: 'truck', 49: 'combined', 11: 'drone', 32: 'truck', 19: 'combined', 42: 'truck', 29: 'drone', 9: 'combined', 48: 'truck', 12: 'truck', 37: 'truck', 2: 'truck', 35: 'truck', 5: 'drone', 4: 'combined', 38: 'drone', 30: 'combined', 34: 'combined', 28: 'drone', 16: 'combined', 23: 'combined', 36: 'truck', 46: 'drone', 31: 'combined', 47: 'drone', 14: 'combined', 25: 'truck', 41: 'drone'}, {5, 38, 41, 43, 44, 11, 46, 47, 17, 21, 26, 27, 28, 29}]
+execution time:6045.466945171356
+2th run:
+current cost:415.88107587370524
+current solution:[{0: 'combined', 1: 'truck', 21: 'drone', 24: 'truck', 7: 'truck', 33: 'combined', 17: 'drone', 8: 'combined', 3: 'drone', 18: 'truck', 43: 'combined', 44: 'drone', 27: 'truck', 40: 'truck', 22: 'truck', 45: 'combined', 10: 'truck', 39: 'drone', 6: 'combined', 20: 'drone', 13: 'combined', 23: 'drone', 26: 'truck', 49: 'combined', 11: 'drone', 32: 'truck', 19: 'combined', 29: 'drone', 42: 'truck', 9: 'combined', 5: 'drone', 48: 'truck', 12: 'truck', 37: 'truck', 2: 'combined', 35: 'truck', 4: 'truck', 38: 'drone', 30: 'combined', 34: 'drone', 28: 'truck', 41: 'combined', 16: 'truck', 46: 'drone', 36: 'truck', 31: 'combined', 47: 'drone', 14: 'combined', 15: 'drone', 25: 'truck'}, {34, 3, 5, 38, 39, 11, 44, 46, 47, 15, 17, 20, 21, 23, 29}]
+execution time:6139.350333929062
+3th run:
+current cost:421.53262065136465
+current solution:[{0: 'combined', 1: 'truck', 15: 'truck', 24: 'truck', 41: 'drone', 7: 'combined', 33: 'drone', 17: 'combined', 8: 'truck', 3: 'drone', 18: 'combined', 39: 'truck', 40: 'truck', 27: 'drone', 22: 'truck', 45: 'combined', 10: 'truck', 43: 'drone', 6: 'combined', 26: 'drone', 13: 'combined', 21: 'drone', 20: 'truck', 49: 'combined', 29: 'drone', 32: 'truck', 19: 'combined', 42: 'truck', 5: 'truck', 9: 'truck', 48: 'truck', 11: 'drone', 12: 'combined', 30: 'drone', 4: 'combined', 35: 'truck', 2: 'truck', 38: 'drone', 37: 'combined', 34: 'truck', 28: 'drone', 16: 'combined', 23: 'truck', 44: 'drone', 47: 'combined', 46: 'drone', 31: 'combined', 36: 'drone', 14: 'truck', 25: 'truck'}, {33, 3, 36, 38, 41, 43, 11, 44, 46, 21, 26, 27, 28, 29, 30}]
+execution time:6364.595529079437
+4th run:
+current cost:414.89857965551425
+current solution:[{0: 'combined', 1: 'truck', 46: 'drone', 15: 'truck', 24: 'truck', 7: 'combined', 33: 'drone', 17: 'combined', 8: 'truck', 3: 'drone', 18: 'combined', 39: 'truck', 27: 'drone', 40: 'truck', 22: 'truck', 45: 'combined', 43: 'drone', 10: 'truck', 6: 'combined', 26: 'drone', 13: 'combined', 21: 'drone', 20: 'truck', 49: 'combined', 11: 'drone', 32: 'truck', 19: 'combined', 42: 'truck', 29: 'drone', 5: 'combined', 9: 'truck', 48: 'truck', 12: 'truck', 37: 'truck', 30: 'drone', 4: 'combined', 38: 'drone', 35: 'truck', 2: 'combined', 34: 'truck', 28: 'drone', 16: 'combined', 23: 'truck', 44: 'drone', 36: 'combined', 31: 'truck', 47: 'drone', 14: 'combined', 41: 'drone', 25: 'truck'}, {33, 3, 38, 41, 43, 11, 44, 46, 47, 21, 26, 27, 28, 29, 30}]
+execution time:6563.618500709534
+5th run:
+current cost:422.02521038074843
+current solution:[{0: 'combined', 1: 'truck', 15: 'truck', 24: 'truck', 44: 'drone', 33: 'truck', 7: 'truck', 17: 'combined', 8: 'truck', 3: 'drone', 18: 'combined', 39: 'drone', 43: 'truck', 27: 'truck', 40: 'combined', 22: 'truck', 45: 'truck', 21: 'drone', 10: 'truck', 6: 'combined', 26: 'truck', 13: 'drone', 20: 'truck', 49: 'combined', 11: 'drone', 32: 'truck', 19: 'combined', 42: 'truck', 29: 'drone', 5: 'combined', 9: 'truck', 48: 'truck', 12: 'truck', 37: 'truck', 4: 'drone', 35: 'combined', 2: 'truck', 38: 'drone', 34: 'combined', 30: 'drone', 28: 'truck', 41: 'combined', 16: 'truck', 36: 'truck', 46: 'drone', 31: 'combined', 47: 'drone', 14: 'combined', 23: 'drone', 25: 'combined'}, {3, 4, 38, 39, 11, 44, 13, 46, 47, 21, 23, 29, 30}]
+execution time:6619.186661243439
+best cost:414.89857965551425
+mean cost:418.77367395201543
+mean time:6346.443594026566
+
